@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @eiriksn
+- 👋 Hi, I’m @eiriksn (he/him)
 - 📫 My stuff is on Gitlab at https://gitlab.com/enesdal
